@@ -1,0 +1,63 @@
+{
+    "weather" : [
+        {
+            "id":1,
+            "days":"Today",
+            "image":"./src/assets/image/fetch/img1.jpg"
+        },
+        {
+            "id":2,
+            "days":"Mon",
+            "image":"./src/assets/image/fetch/img2.jpg"
+        },
+        {
+            "id":3,
+            "days":"Tue",
+            "image":"./src/assets/image/fetch/img3.jpg"
+        },
+        {
+            "id":4,
+            "days":"Wed",
+            "image":"./src/assets/image/fetch/img4.jpg"
+        },
+        {
+            "id":5,
+            "days":"Thu",
+            "image":"./src/assets/image/fetch/img5.jpg"
+        },
+        {
+            "id":6,
+            "days":"Fri",
+            "image":"./src/assets/image/fetch/img6.jpg"
+        },
+        {
+            "id":7,
+            "days":"Sat",
+            "image":"./src/assets/image/fetch/img7.jpg"
+        },
+        {
+            "id":8,
+            "days":"Sun",
+            "image":"./src/assets/image/fetch/img8.jpg"
+        },
+        {
+            "id":9,
+            "days":"Mon",
+            "image":"./src/assets/image/fetch/img9.jpg"
+        },
+        {
+            "id":10,
+            "days":"Thu",
+            "image":"./src/assets/image/fetch/img10.jpg"
+        },
+        {
+            "id":11,
+            "days":"Wed",
+            "image":"./src/assets/image/fetch/img11.jpg"
+        }
+
+
+    ]
+
+
+}
